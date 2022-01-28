@@ -1,5 +1,5 @@
 # ArtChor Langsdorf
-![Logo](/artchorLOGOneu.jpg)
+![Logo](/artchorLOGOklein.jpg)
 
 ## Veranstaltungen
 
