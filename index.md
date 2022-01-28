@@ -1,5 +1,4 @@
 ## ArtChor Langsdorf
-
 ![Logo](/artchorLOGOneu.jpg)
 
 ## Menü
