@@ -1,2 +1,2 @@
-# artchor_web
+# ArtChor Langsdorf
 Neue Website des ArtChor Langsdorf
