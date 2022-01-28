@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## ArtChor Langsdorf
+
+![Logo](/artchorLOGOneu.jpg)
 
 You can use the [editor on GitHub](https://github.com/dirkemmerich/artchor_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,6 +8,8 @@ You can use the [editor on GitHub](https://github.com/dirkemmerich/artchor_web/e
 <ul>
   <li {% if page.url contains '/gh-pages' %}class="active"{% endif %}><a href="/Veranstaltungen.md">Termine</a></li>
 </ul>
+
+[Termine](/Veranstaltungen.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
