@@ -2,8 +2,6 @@
 
 ![Logo](/artchorLOGOneu.jpg)
 
-You can use the [editor on GitHub](https://github.com/dirkemmerich/artchor_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Menü
 <ul>
   <li {% if page.url contains '/gh-pages' %}class="active"{% endif %}><a href="/Veranstaltungen.md">Termine</a></li>
